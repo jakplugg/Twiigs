@@ -1,0 +1,2 @@
+Eagle supports only round holes in through pads. Other hole types have been replaced with round ones (diameter = minimum dimension) for the following patterns:
+Pad
